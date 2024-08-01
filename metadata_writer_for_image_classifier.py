@@ -209,8 +209,3 @@ def main(_):
 if __name__ == "__main__":
  define_flags()
  app.run(main)
-
-From: Becker, Brian T <Brian.Becker@tufts.edu>
-Sent: 01 August 2024 14:40
-To: Becker, Brian T <Brian.Becker@tufts.edu>
-Subject: classification files
